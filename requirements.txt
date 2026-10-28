@@ -1,0 +1,6 @@
+streamlit>=1.45,<2
+tensorflow>=2.16,<2.22
+pandas>=2.2,<4
+numpy>=1.26,<3
+pillow>=10,<13
+plotly>=5,<8
